@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string-array name="tech">
+        <item>java</item>
+        <item>c++</item>
+        <item>node js</item>
+        <item>python</item>
+        <item>javascript</item>
+    </string-array>
+</resources>
